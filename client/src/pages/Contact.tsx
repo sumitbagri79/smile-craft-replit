@@ -81,7 +81,7 @@ export default function Contact() {
                           Edison, NJ 08820
                         </p>
                         <a
-                          href="https://maps.google.com/?q=Edison+NJ"
+                          href="https://www.google.com/maps/dir/?api=1&destination=34-36+Progress+St+Suite+B6+Edison+NJ+08820"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-sm text-primary hover:underline mt-2 inline-block"
@@ -151,7 +151,7 @@ export default function Contact() {
             <div className="mt-12">
               <div className="aspect-video lg:aspect-[21/9] rounded-xl overflow-hidden">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48548.35292693025!2d-74.40807127832032!3d40.5203333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3b62bc611f11d%3A0xa5b7ed0f42d30c8a!2sEdison%2C%20NJ!5e0!3m2!1sen!2sus!4v1701900000000!5m2!1sen!2sus"
+                  src="https://maps.google.com/maps?q=34-36+Progress+St,+Suite+B6,+Edison,+NJ+08820&t=&z=16&ie=UTF8&iwloc=&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
