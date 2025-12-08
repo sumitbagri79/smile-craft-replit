@@ -106,7 +106,7 @@ export default function Footer() {
           </div>
           <Button variant="outline" size="sm" asChild data-testid="button-google-review">
             <a 
-              href="https://g.page/r/review" 
+              href="https://share.google/p57afZlRTSBnB4cpD" 
               target="_blank" 
               rel="noopener noreferrer"
             >

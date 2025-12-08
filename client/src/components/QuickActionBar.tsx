@@ -18,7 +18,7 @@ const actions = [
   {
     icon: Star,
     label: "Leave a Review",
-    href: "https://g.page/r/review",
+    href: "https://share.google/p57afZlRTSBnB4cpD",
     isExternal: true
   },
   {
